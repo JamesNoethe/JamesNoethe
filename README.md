@@ -5,10 +5,6 @@
 
 Here are some ideas to get you started:
 
-- I'm currently working on improving my programming skills, by the end of the course with Ga I expect to be more proficient in JavaScript, HTML and CSS.
-I'm here to learn more than just the codeing aspect but also had to work better with a team, to improve my typing speed and just overall comprehension of code, whatever language it's in.
-![Uploading Gclf.gif…]()
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,3 +13,7 @@ I'm here to learn more than just the codeing aspect but also had to work better 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently working on improving my programming skills, by the end of the course with Ga I expect to be more proficient in JavaScript, HTML and CSS.
+I'm here to learn more than just the codeing aspect but also had to work better with a team, to improve my typing speed and just overall comprehension of code, whatever language it's in.
+
+![image](https://user-images.githubusercontent.com/86137308/178838270-b0fc95ad-eb64-43ef-a3bf-cf953fa4a356.png)
